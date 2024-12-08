@@ -1,5 +1,10 @@
 ## Introduction
 
+The primary objective of this report is to effectively manage and track sales data for individual items at **Big Mart**, a prominent retail chain. By analyzing historical sales data, we aim to:
+- Forecast future client demand.
+- Optimize inventory management strategies.
+- Enhance competitiveness and maximize profitability.
+
 Forecasting accuracy is critical in predictive modeling. This project evaluates several machine learning models to determine which provides the most accurate predictions. Models tested include:
 - **XGB** (Extreme Gradient Boosting)
 - **ANN** (Artificial Neural Networks)
