@@ -22,9 +22,6 @@ The results of this analysis will:
 
 ## Report Highlights
 
-This report will serve as a comprehensive resource for the retail sector, focusing on the following areas:
-
-
 Forecasting accuracy is critical in predictive modeling. This project evaluates several machine learning models to determine which provides the most accurate predictions. Models tested include:
 - **XGB** (Extreme Gradient Boosting)
 - **ANN** (Artificial Neural Networks)
